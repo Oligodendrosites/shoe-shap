@@ -1,7 +1,7 @@
 # Shoe App
 
  #### Description
- Our app provides a platform for trading and donating shoes. Users can upload their pictures of shoes to trade.  User can then request other users to trade their shoes.
+ Our app provides a platform for trading and donating shoes. Users can upload their pictures of shoes to trade. User can search through a lists of shoes.  User can then request other users to trade their shoes.
  
  
  ###### Technologies Used
